@@ -1,85 +1,85 @@
 const pokeneas = [
     {
         id: 1,
-        nombre: "Bulbasaurio",
-        altura: 0.7,
-        habilidad: "Espesura",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/bulbasaur.png",
-        fraseFilosofica: "Filosofando ando"
+        name: "Bulbasaurio",
+        height: 0.7,
+        ability: "Espesura",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/bulbasaur.png",
+        quote: "Filosofando ando"
     },
     {
         id: 2,
-        nombre: "ChArmando",
-        altura: 0.6,
-        habilidad: "Mar Llamas",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/charmander.png",
-        fraseFilosofica: "Si cierro los ojos no veo"
+        name: "ChArmando",
+        height: 0.6,
+        ability: "Mar Llamas",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/charmander.png",
+        quote: "Si cierro los ojos no veo"
     },
     {
         id: 3,
-        nombre: "Pidgey",
-        altura: 0.3,
-        habilidad: "Vista Lince",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/pidgey.png",
-        fraseFilosofica: "El deseo es la verdadera esencia del hombre"
+        name: "Pidgey",
+        height: 0.3,
+        ability: "Vista Lince",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/pidgey.png",
+        quote: "El deseo es la verdadera esencia del hombre"
     },
     {
         id: 4,
-        nombre: "Caterpie",
-        altura: 0.3,
-        habilidad: "Polvo Escudo",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/caterpie.png",
-        fraseFilosofica: "La paciencia es amarga, pero su fruto es dulce"
+        name: "Caterpie",
+        height: 0.3,
+        ability: "Polvo Escudo",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/caterpie.png",
+        quote: "La paciencia es amarga, pero su fruto es dulce"
     },
     {
         id: 5,
-        nombre: "Pikachu",
-        altura: 0.4,
-        habilidad: "Elec. Estática",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/pikachu.png",
-        fraseFilosofica: "Hace falta una vida para aprender a vivir"
+        name: "Pikachu",
+        height: 0.4,
+        ability: "Elec. Estática",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/pikachu.png",
+        quote: "Hace falta una vida para aprender a vivir"
     },
     {
         id: 6,
-        nombre: "Clefairy",
-        altura: 0.6,
-        habilidad: "Gran Encanto",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/clefairy.png",
-        fraseFilosofica: "Los grandes resultados requieren grandes ambiciones"
+        name: "Clefairy",
+        height: 0.6,
+        ability: "Gran Encanto",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/clefairy.png",
+        quote: "Los grandes resultados requieren grandes ambiciones"
     },
     {
         id: 7,
-        nombre: "Arcanine",
-        altura: 1.9,
-        habilidad: "Intimidación",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/arcanine.png",
-        fraseFilosofica: "El hombre es la medida de todas las cosas"
+        name: "Arcanine",
+        height: 1.9,
+        ability: "Intimidación",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/arcanine.png",
+        quote: "El hombre es la medida de todas las cosas"
     },
     {
         id: 8,
-        nombre: "Blastoise",
-        altura: 1.6,
-        habilidad: "Torrente",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/blastoise.png",
-        fraseFilosofica: "El obstáculo es el camino"
+        name: "Blastoise",
+        height: 1.6,
+        ability: "Torrente",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/blastoise.png",
+        quote: "El obstáculo es el camino"
     },
     {
         id: 9,
-        nombre: "Golem",
-        altura: 1.4,
-        habilidad: "Cabeza Roca",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/golem.png",
-        fraseFilosofica: "La libertad está en ser dueños de la propia vida"
+        name: "Golem",
+        height: 1.4,
+        ability: "Cabeza Roca",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/golem.png",
+        quote: "La libertad está en ser dueños de la propia vida"
     },
     {
         id: 10,
-        nombre: "Ponyta",
-        altura: 1.0,
-        habilidad: "Fuga",
-        imagen: "https://storage.googleapis.com/pokeneas-mja-scm/ponyta.png",
-        fraseFilosofica: "Pienso, luego existo"
+        name: "Ponyta",
+        height: 1.0,
+        ability: "Fuga",
+        image: "https://storage.googleapis.com/pokeneas-mja-scm/ponyta.png",
+        quote: "Pienso, luego existo"
     },
 ]
 
-module.exports = pokeneas;
+module.exports = { pokeneas };
 
