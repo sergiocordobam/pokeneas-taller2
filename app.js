@@ -6,7 +6,7 @@ const path = require("path");
 class MyApp {
   static main() {
     const app = express();
-    const PORT = 3000;
+    const PORT = 80;
 
     app.set("view engine", "ejs");
     app.set("views", path.join(__dirname, "src/views"));
